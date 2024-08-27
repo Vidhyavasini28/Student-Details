@@ -1,7 +1,14 @@
 # Student-Details
 
-**1.npm init**
-**2.npm install express --save**
-**3.npm install mongooose --save**
-**4.npm install dotenv --save**
-**5.npm install -D nodemon --save**
+**npm init**
+**npm install express --save** 
+**npm install mongooose --save**
+**npm install dotenv --save**
+**npm install -D nodemon --save**
+
+
+**API**
+**GET**
+**PUT**
+**POST**
+**DELETE**
